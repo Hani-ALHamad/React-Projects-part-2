@@ -22,4 +22,4 @@
 
 i guess that the css blur effect made the main website abit laggy for old devices , also its JS code is a bit messy 😅
 
-![alt text]("https://raw.githubusercontent.com/Hani-ALHamad/React-Projects-part-2/main/bonus.jpg")
+![alt text](https://raw.githubusercontent.com/Hani-ALHamad/React-Projects-part-2/main/bonus.jpg)
