@@ -16,7 +16,7 @@
 -17, 19, 20: useState & useEffect.  
 -18: useState, useEffect, useFetch.  
 -21: useState, useEffect, useContext, useParams, Router.  
--22: useEffect, useContext.
+-22: useEffect, useContext.  
 -23: useState, useEffect, useContext, axios.  
 -used React Icons in many of them as well.   
 
